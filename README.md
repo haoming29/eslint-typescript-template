@@ -1,1 +1,3 @@
-echo # eslint-typescript-template
+# eslint-typescript-template
+
+The eslint template for typescript
