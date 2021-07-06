@@ -1,0 +1,1 @@
+echo # eslint-typescript-template
